@@ -1,0 +1,6 @@
+numpy
+pytest
+flake8
+pytest-cov
+sphinx
+git+git://github.com/AndreasR90/SudokuSolver.git#egg=sudoku_solver
